@@ -1,0 +1,5 @@
+number of amino acid:91
+theoretical pI:9.26
+molecular weight: 10380.03
+instability index: 59.61
+aliphatic index: 65.27
