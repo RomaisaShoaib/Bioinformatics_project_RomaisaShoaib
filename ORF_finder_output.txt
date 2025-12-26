@@ -1,0 +1,5 @@
+total ORF:23.
+i choose ORF 19 
+start 2548
+stop 2273
+i choose ORF 19 bcz it is the most likely functional and start with a canoical ATG codon and longest sequence 
